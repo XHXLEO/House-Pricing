@@ -1,0 +1,1 @@
+MSSubClass, LotFrontage,OverallQual, OverallCond, YearBuilt, YearRemodAdd, GarageArea
